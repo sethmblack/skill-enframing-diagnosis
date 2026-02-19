@@ -4,7 +4,7 @@ description: Diagnose how technological thinking (Gestell) reduces beings to sta
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3906
+  version: 1.0.3907
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - enframing-diagnosis
